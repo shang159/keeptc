@@ -13,6 +13,7 @@ def hello():
     username="root"
     password="hellogithubtest"
     access_key="3454534534343"
+    tes_aid="cli_9cb844403dbb9108" ## test
     access_secret="144cd6b654c6425450c79b3c720ad465"
     result={
         "url":url,
